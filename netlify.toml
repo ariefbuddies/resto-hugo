@@ -1,6 +1,6 @@
 [build]
 publish = "exampleSite"
-command = "cd exampleSite && mkdir themes && cd themes && git clone https://gitlab.com/kskarthik/resto-hugo.git && hugo --gc --minify &&hugo --gc --themesDir ../.."
+command = "cd exampleSite && mkdir themes && cd themes && git clone https://gitlab.com/kskarthik/resto-hugo.git && hugo --gc --minify && hugo --gc --themesDir ../.."
 
 [context.production.environment]
 HUGO_VERSION = "0.71.1"
