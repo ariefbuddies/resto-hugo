@@ -1,7 +1,7 @@
 baseURL = "https://youthful-elion-e263b2.netlify.app/"
 languageCode = "en-us"
 title = "AriefB-RestoHugo"
-theme = "resto-hugo"
+theme = "repo"
 copyright = "&copy 2019 Resto Hugo" # HTML tags supported
 googleAnalytics = "UA-123-45"
 disqusShortname = "yourdiscussshortname"
