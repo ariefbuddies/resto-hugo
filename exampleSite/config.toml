@@ -1,6 +1,6 @@
-baseURL = "http://example.com/"
+baseURL = "https://youthful-elion-e263b2.netlify.app/"
 languageCode = "en-us"
-title = "Resto Hugo - Port of resto theme for hugo"
+title = "AriefB-RestoHugo"
 theme = "resto-hugo"
 copyright = "&copy 2019 Resto Hugo" # HTML tags supported
 googleAnalytics = "UA-123-45"
