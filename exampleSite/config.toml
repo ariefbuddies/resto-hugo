@@ -1,6 +1,6 @@
 baseURL = "https://gigitbra.my.id/"
 languageCode = "en-us"
-title = "AriefB-RestoHugo"
+title = "BRA-RestoHugo"
 theme = "Resto Hugo"
 copyright = "&copy 2019 Resto Hugo" # HTML tags supported
 googleAnalytics = "UA-123-45"
