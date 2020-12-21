@@ -17,5 +17,5 @@ min_version = "0.41"
 # If porting an existing theme
 [original]
   name = "Resto Hugo"
-  homepage = "https://freehtml5.co/resto-free-responsive-bootstrap-4-template-for-restaurants/"
+  homepage = "https://gitlab.com/kskarthik/resto-hugo.git"
   
