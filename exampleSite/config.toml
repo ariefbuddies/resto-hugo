@@ -1,4 +1,4 @@
-baseURL = "https://gigitbra.my.id/"
+baseURL = "https://demo-resto-ariefb.netlify.app/"
 languageCode = "en-us"
 title = "BRA-RestoHugo"
 theme = "Resto Hugo"
